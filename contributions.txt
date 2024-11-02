@@ -1,0 +1,3 @@
+Code for red wine data analysis: kaustubh and onkar
+Research for cubesat: milind (major contributions) and milind, kaustubh.
+Prompt: Team effort
